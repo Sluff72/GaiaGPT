@@ -25,5 +25,5 @@ Für Unternehmen und Privatpersonen mit Zugang zur ChatGPT Plus-Version eröffne
 
 Wir laden alle Interessierten ein, diese Technologie selbst auszuprobieren und Teil der Bewegung hin zu mehr Nachhaltigkeit im Geschäftsleben zu werden – für einen gesünderen Planeten Erde und einen verantwortungsvollen Umgang mit unseren Ressourcen.
 
-
-
+## Einbindung von GaiaGPT (de) in ChatGPT Plus
+https://chat.openai.com/g/g-Lp1gUm5BM-gaia-de
